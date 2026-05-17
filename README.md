@@ -74,10 +74,10 @@ python main.py
 
 Some of the analyses in this project include:
 
--Frequency of sightings over time
--Frequency of sightings by month
--Shape/type distribution of phenomena
--Correlations
+- Frequency of sightings over time
+- Frequency of sightings by month
+- Shape/type distribution of phenomena
+- Correlations
 
 ---
 
